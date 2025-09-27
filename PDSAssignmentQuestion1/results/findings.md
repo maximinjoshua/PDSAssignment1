@@ -1,4 +1,4 @@
-# EDA & Findings
+# Findings
 ## 1. Summary Table
 |                |     mean |   median |       std |
 |:---------------|---------:|---------:|----------:|
@@ -13,4 +13,4 @@
 | AgeGroup_46–60 |   0      |   0      |  0        |
 | AgeGroup_>60   |   0      |   0      |  0        |
 ## 2. Correlation between Grip Strength and Frailty
-Correlation between Grip_strength and Frailty_binary: -0.4758668672668007
+Correlation between Grip_strength and Frailty: -0.4758668672668007
